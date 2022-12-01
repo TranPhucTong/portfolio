@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TranPhucTong/portfolio/static/css/main.1f9a66a4.css",
+    "main.js": "/TranPhucTong/portfolio/static/js/main.a193a505.js",
+    "static/media/restaurant.png": "/TranPhucTong/portfolio/static/media/restaurant.a9fce5f5a1ebbeab2343.png",
+    "static/media/FoodWeb.png": "/TranPhucTong/portfolio/static/media/FoodWeb.c0395df94dfe1ae7a88d.png",
+    "static/media/Nike.png": "/TranPhucTong/portfolio/static/media/Nike.0e711fdd5af1e17052e4.png",
+    "static/media/LOGO.png": "/TranPhucTong/portfolio/static/media/LOGO.ac557623468ceba30943.png",
+    "static/media/shopping.png": "/TranPhucTong/portfolio/static/media/shopping.22b79a697ca80d70904b.png",
+    "static/media/CV_XinViec_English.pdf": "/TranPhucTong/portfolio/static/media/CV_XinViec_English.741156c7ee3d190c61c3.pdf",
+    "static/media/avt.png": "/TranPhucTong/portfolio/static/media/avt.1485a6469d2621eb4266.png",
+    "static/media/TranPhucTong_CV.pdf": "/TranPhucTong/portfolio/static/media/TranPhucTong_CV.cd6c000010024c2e9634.pdf",
+    "index.html": "/TranPhucTong/portfolio/index.html",
+    "main.1f9a66a4.css.map": "/TranPhucTong/portfolio/static/css/main.1f9a66a4.css.map",
+    "main.a193a505.js.map": "/TranPhucTong/portfolio/static/js/main.a193a505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9a66a4.css",
+    "static/js/main.a193a505.js"
+  ]
+}
